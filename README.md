@@ -49,7 +49,6 @@ O sistema não irá lidar com transações financeiras, como cobrança de multas
 Interfaces:
 
 O sistema deve ser acessível via navegador web, com suporte para dispositivos desktop e móveis. Deve também integrar-se com o sistema chamado "Consulta CNPJ", que permite verificar a autenticidade de um CNPJ 
-
 para permitir o acesso das agências autorizadas.
 
 Usuários e perfis de usuarios:
