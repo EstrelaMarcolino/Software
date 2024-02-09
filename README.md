@@ -21,12 +21,40 @@ Ojetivos específicos
 
 •	Implementar um banco de dados para armazenar as agências do mercado.
 
-•	Manter o controle das agências e modelos do mercado proporcionando segurança ao cliente.
-
 •	Criar uma interface de usuário intuitiva e responsiva que possibilite os clientes, empresas e outros a interagirem de forma simples e eficaz com o sistema.
 
 •	Contribuir no desenvolvimento da indústria de moda, com a criação de um software de gerenciamento e divulgação de modelos.
 
+
+Funcionalidades:
+
+Cadastro de Agências:Permitir cadastro de novas agências no sistema,incluindo informações como nome da agência,Contacto,CNPJ, endereço e E-mail etc.
+
+Cadastro de usuários(clientes): Permitir o registro de novos usuários no sistema, incluindo informações como nome, contacto, endereço, e-mail, entre outros.
+
+Consulta de acervo: Permitir que usuários e agências de moda consultem o acervo de fotográfia e videos dos modelos disponíveis, podendo buscar por meio do nome do modelo ou da agência etc.
+
+Requisitos:
+
+O sistema deve garantir a segurança dos dados, exigindo autenticação para acesso e protegendo as informações pessoais dos usuários(Agências e clientes).
+
+O sistema deve garantir  o controle das agências e modelos do mercado proporcionando segurança ao cliente.
+
+O sistema deve suportar múltiplos usuários acessando o sistema simultaneamente, mantendo a integridade dos dados.
+
+Limitações e exclusão:
+
+O sistema não irá lidar com transações financeiras, como cobrança de multas por atraso  ou não comprimento dos serviços fornecidos das agências.
+
+Interfaces:
+
+O sistema deve ser acessível via navegador web, com suporte para dispositivos desktop e móveis. Deve também integrar-se com o sistema chamado "Consulta CNPJ", que permite verificar a autenticidade de um CNPJ 
+
+para permitir o acesso das ageências autorizadas.
+
+Usuários e perfis de usuarios:
+
+Administrador: Responsável por gerenciar o acervo, cadastrar novos usuários, gerar relatórios, entre outras tarefas administrativas.
 
 Membros da equipe:
 
