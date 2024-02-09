@@ -7,6 +7,7 @@ Objetivos e finalidades:
 
 O objetivo principal do sistema será representar e promover modelos, otimizando o gerenciamento das agências, permitindo assim o controle eficiente das agências e dos modelos.
 Objetivo geral
+
 Desenvolver um software para gerenciamento e divulgação de modelos (e-commerce).
 
            Objetivos específicos
@@ -25,6 +26,8 @@ Membros da equipe:
 Estrela José Marcolino – dev Backend.
 Adilson Leonardo Morgado Cabaça –  dev frontend.
 Carla Carlos Sá – Designer
+
+
 
 Liguagem: javascript etc.
 Framework: Figma   etc.
