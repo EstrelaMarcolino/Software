@@ -15,7 +15,7 @@ Desenvolver um software para gerenciamento e divulgação de modelos (e-commerce
 
 Ojetivos específicos
            
-•	Desenvolver um chatbots interativo para facilitar a comunicação eficiente com o cliente.
+•	Desenvolver um chat interativo para facilitar a comunicação eficiente com o cliente.
 
 •	Construir um e-commerce, que serve de suporte para as agências e com suporte multilíngue.
 
