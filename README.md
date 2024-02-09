@@ -30,6 +30,8 @@ Ojetivos específicos
 
 Membros da equipe:
 
+Dimir Zeferino Cuma - Gerente de Projeto
+
 Estrela José Marcolino – dev Backend.
 
 Adilson Leonardo Morgado Cabaça –  dev frontend.
