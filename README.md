@@ -74,3 +74,11 @@ JUSTIFICATIVA DO PROJETO
 
 Este projeto busca prosseguir com uma pesquisa já iniciada e ampliar o estudo, propondo a criação de um software de gerenciamento e divulgação de modelos (e-commerce). Sabe-se que existem agências físicas e também digitais. Mas não existe um plataforma digital que tem como objetivo, gerenciar a agências do mercado da moda, assegurando a veracidade das agências, modelos e a segurança do cliente. Existem muitas pessoas, que tiveram o seu sonho de ser modelo frustrados, devido a inúmeras agências falsas formadas com intuito de roubar dinheiro dos clientes aproveitando-se de seu sonho. Ainda devido a inúmeras agências, é difícil saber ao certo ou levaria muito tempo para verificar se um modelo que não é famoso existe ou se foi afastado da agência. Visto que a indústria da moda é dinâmica e sempre está à procura de novos talentos, logo surge a necessidade da criação de um (e–ccomerce) que será como se fosse uma agência mãe para todas as agências de moda.
 
+BACKLOG PRODUCT
+
+Dono/a da Agência, 
+
+-Como usuário, eu quero ser capaz de adicionar produtos(modelos) de minha preferência ao meu carrinho de compras para poder contratar vários modelos de uma só vez da mesma ou outra agência.
+
+
+
