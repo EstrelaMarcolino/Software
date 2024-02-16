@@ -76,9 +76,34 @@ Este projeto busca prosseguir com uma pesquisa já iniciada e ampliar o estudo, 
 
 BACKLOG PRODUCT
 
-Dono/a da Agência, 
+Como dono/a da agência de modelos, desejo ter a capacidade de gerenciar os perfis dos modelos em nosso sistema, para que eu possa atualizar informações, adicionar novos modelos e remover modelos existentes conforme necessário.
 
--Como usuário, eu quero ser capaz de adicionar produtos(modelos) de minha preferência ao meu carrinho de compras para poder contratar vários modelos de uma só vez da mesma ou outra agência.
+-O sistema deve fornecer uma interface de administração acessível apenas aos donos/as da agência.
+-O dono/a da agência deve poder visualizar uma lista de todos os perfis de modelos registrados no sistema.
+-O dono/a da agência deve ter a capacidade de visualizar os detalhes completos do perfil de cada modelo, incluindo nome, idade, altura, medidas, fotos e outras informações relevantes.
+-O dono/a da agência deve poder atualizar as informações dos perfis dos modelos, incluindo nome, idade, altura, medidas, fotos e descrição.
+-O dono/a da agência deve poder adicionar novos perfis de modelos ao sistema, inserindo todas as informações necessárias.
+-O dono/a da agência deve poder remover perfis de modelos existentes do sistema, garantindo que todas as referências a esse modelo sejam removidas de forma adequada.
+
+Como usuários(Registro de Novo Usuário/Entrada no Sistema),eu gostaria de logar no sistema com os seguintes dados, nome, contacto, endereço, e-mail para realizar atividade de contratação de modelo através do sistema.
+
+-O sistema deve fornecer um formulário de registro com campos para inserir nome, contato, endereço e e-mail.
+-Todos os campos devem ser obrigatórios para preenchimento.
+-O sistema deve validar o formato do e-mail inserido.
+-Após o preenchimento correto do formulário, o sistema deve armazenar as informações do novo usuário.
+-O sistema deve enviar um e-mail de confirmação para o endereço fornecido pelo usuário.
+
+-O sistema deve apresentar um formulário de login na página inicial.
+-O usuário deve fornecer o nome de usuário e a senha para acessar o sistema.
+-O sistema deve verificar se os dados de entrada são válidos e correspondem a um usuário registrado.
+-Se os dados estiverem corretos, o sistema deve redirecionar o usuário para a página principal do sistema.
+
+Como usuário(Atividade de Contratação de Modelos), eu quero ser capaz de adicionar produtos(modelos) de minha preferência ao meu carrinho de compras para poder contratar vários modelos de uma só vez da mesma ou de outra agência.
+
+-O sistema deve fornecer uma interface intuitiva para buscar e visualizar modelos disponíveis para contratação.
+-O usuário deve poder selecionar um modelo desejado e prosseguir para a contratação.
+-O sistema deve permitir que o usuário especifique os detalhes da contratação, como data, hora, localização, etc.
+-Após confirmar a contratação, o sistema deve registrar as informações da contratação e notificar o modelo contratado e o usuário por e-mail.
 
 
 
