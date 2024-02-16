@@ -57,7 +57,7 @@ Administrador: Responsável por gerenciar o acervo, cadastrar novos usuários, g
 
 Membros da equipe:
 
-Dimir Zeferino Cuma - Gerente de Projeto
+Dimir Zeferino Cuma - PO.
 
 Estrela José Marcolino – dev Backend.
 
