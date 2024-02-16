@@ -90,7 +90,9 @@ Como dono/a da agência de modelos, desejo ter a capacidade de gerenciar os perf
 
 -O dono/a da agência deve poder remover perfis de modelos existentes do sistema, garantindo que todas as referências a esse modelo sejam removidas de forma adequada.
 
-Como usuários(Registro de Novo Usuário/Entrada no Sistema),eu gostaria de logar no sistema com os seguintes dados, nome, contacto, endereço, e-mail para realizar atividade de contratação de modelo através do sistema.
+Como usuários(cliente),gostaria de logar no sistema com os seguintes dados, nome, contacto, endereço, e-mail para realizar atividade de contratação de modelo através do sistema.
+
+Critérios de aceitação(Registro de Novo Usuário):
 
 -O sistema deve fornecer um formulário de registro com campos para inserir nome, contato, endereço e e-mail.
 
@@ -102,6 +104,8 @@ Como usuários(Registro de Novo Usuário/Entrada no Sistema),eu gostaria de loga
 
 -O sistema deve enviar um e-mail de confirmação para o endereço fornecido pelo usuário.
 
+Critérios de aceitação (Entrada no Sistema):
+
 -O sistema deve apresentar um formulário de login na página inicial.
 
 -O usuário deve fornecer o nome de usuário e a senha para acessar o sistema.
@@ -110,7 +114,9 @@ Como usuários(Registro de Novo Usuário/Entrada no Sistema),eu gostaria de loga
 
 -Se os dados estiverem corretos, o sistema deve redirecionar o usuário para a página principal do sistema.
 
-Como usuário(Atividade de Contratação de Modelos), eu quero ser capaz de adicionar produtos(modelos) de minha preferência ao meu carrinho de compras para poder contratar vários modelos de uma só vez da mesma ou de outra agência.
+Como usuário(cliente),quero ser capaz de adicionar produtos(modelos) de minha preferência ao meu carrinho de compras para poder contratar vários modelos de uma só vez da mesma ou de outra agência.
+
+Critérios de aceitação (Atividade de Contratação de Modelos):
 
 -O sistema deve fornecer uma interface intuitiva para buscar e visualizar modelos disponíveis para contratação.
 
