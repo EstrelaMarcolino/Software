@@ -79,7 +79,7 @@ BACKLOG PRODUCT
 
 Como dono/a da agência de modelos, desejo ter a capacidade de gerenciar os perfis dos modelos em nosso sistema, para que eu possa atualizar informações, adicionar novos modelos e remover modelos existentes conforme necessário.
 
--O sistema deve fornecer uma interface de administração acessível apenas aos donos/as da agência.
+-O sistema deve fornecer também uma interface de administração acessível aos donos/as da agência.
 
 -O dono/a da agência deve poder visualizar uma lista de todos os perfis de modelos registrados no sistema.
 
