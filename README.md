@@ -91,7 +91,7 @@ Como dono/a da agência de modelos, desejo ter a capacidade de gerenciar os perf
 
 -O dono/a da agência deve poder remover perfis de modelos existentes do sistema, garantindo que todas as referências a esse modelo sejam removidas de forma adequada.
 
-Como usuários(cliente),gostaria de logar no sistema com os seguintes dados, nome, contacto, endereço, e-mail para realizar atividade de contratação de modelo através do sistema.
+Como usuários,gostaria de logar no sistema com os seguintes dados, nome, contacto, endereço, e-mail para realizar atividade de contratação de modelo através do sistema.
 
 Critérios de aceitação(Registro de Novo Usuário):
 
@@ -115,7 +115,7 @@ Critérios de aceitação (Entrada no Sistema):
 
 -Se os dados estiverem corretos, o sistema deve redirecionar o usuário para a página principal do sistema.
 
-Como usuário(cliente),quero ser capaz de adicionar produtos(modelos) de minha preferência ao meu carrinho de compras para poder contratar vários modelos de uma só vez da mesma ou de outra agência.
+Como usuário,quero ser capaz de adicionar produtos(modelos) de minha preferência ao meu carrinho de compras para poder contratar vários modelos de uma só vez da mesma ou de outra agência.
 
 Critérios de aceitação (Atividade de Contratação de Modelos):
 
@@ -144,44 +144,62 @@ Como administrador do (software de gerenciamento e divulgação de Modelos),dese
 
 BACKLOG DA SPRINT
 
-Responsável por garantir que o backlog do produto seja gerenciado de forma eficaz,fornecendo visão e estratégias do produto. @Dimir Zeferino Cuma - PO
+Responsável por garantir que o backlog do produto seja gerenciado de forma eficaz,fornecendo visão e estratégias do produto. @DimirCuma - PO
 
 Responsável pela (ui e ux): ferramente figma.@Carla Carlos Sá
 
-Implementar Base Tecnologica Frontend: Angular com Angular Material.@Adilson Leonardo Morgado Cabaça
+Implementar Base Tecnologica Frontend: Angular com Angular Material.@AdilsonCabaça
 
-Implementar Base Tecnologica Backend: Node.JS com Express.@Estrela José Marcolino
+Implementar Base Tecnologica Backend: Node.JS com Express.@Estrela Marcolino
 
 como Administrador,gostaria de gerenciar o sistema
--Formulario Frontend @Adilson Leonardo Morgado Cabaça
--Filtro de autenticação Login Frontend (Adiciona o token a requisições feitas por um usuario autenticado).@Adilson Leonardo Morgado Cabaça
+
+-Formulario Frontend @AdilsonCabaça
+
+-Filtro de autenticação Login Frontend (Adiciona o token a requisições feitas por um usuario autenticado).@AdilsonCabaça
+
 -Rest Backend - POST @EstrelaMarcolino
 
 como dono/a da agência,gostaria de gerenciar os perfis de modelo de minha agência
--Formulario Frontend @Adilson Leonardo Morgado Cabaça
--Filtro de autenticação Login Frontend (Adiciona o token a requisições feitas por um usuario autenticado).@Adilson Leonardo Morgado Cabaça 
+
+-Formulario Frontend @AdilsonCabaça
+
+-Filtro de autenticação Login Frontend (Adiciona o token a requisições feitas por um usuario autenticado).@AdilsonCabaça 
+
 -Rest Backend - POST @EstrelaMarcolino
 
 Como usuário, gostaria de Criar conta
--Formulario Frontend @Adilson Leonardo Morgado Cabaça.
+
+-Formulario Frontend @AdilsonCabaça.
+
 -Rest Backend - POST @EstrelaMarcolino
--Tabela Conta @Adilson Leonardo Morgado Cabaça
+
+-Tabela Conta @AdilsonCabaça
 
 Como usuário, gostaria de Fazer Login
--Formulário Login @Adilson Leonardo Morgado Cabaça
--Filtro de autenticação Login Frontend (Adiciona o token a requisições feitas por um usuario autenticado) @Adilson Leonardo Morgado Cabaça
+
+-Formulário Login @AdilsonCabaça
+
+-Filtro de autenticação Login Frontend (Adiciona o token a requisições feitas por um usuario autenticado) @AdilsonCabaça
+
 -Rest Backend - POST @EstrelaMarcolino
 
 Como usuário, gostaria de Visualizar minha conta
--Formulário FrontEnd @Adilson Leonardo Morgado Cabaça.
+
+-Formulário FrontEnd @AdilsonCabaça
+
 -Rest Backend - GET @EstrelaMarcolino
 
 Como usuário, gostaria de Alterar minha foto
--Botão alterar foto no formulário visualizar conta.@AdilsonCabaça.
+
+-Botão alterar foto no formulário visualizar conta.@AdilsonCabaça
+
 -Rest Backend - POST @EstrelaMarcolino
 
 -Como usuário, gostaria de Alterar senha
+
 -Formulario alterar senha, apartir do minha conta @Adilson Cabaça
+
 -Backend alterar senha - POST @EstrelaMarcolino
 
 
