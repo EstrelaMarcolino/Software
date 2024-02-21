@@ -75,7 +75,7 @@ JUSTIFICATIVA DO PROJETO
 Este projeto busca prosseguir com uma pesquisa já iniciada e ampliar o estudo, propondo a criação de um software de gerenciamento e divulgação de modelos (e-commerce). Sabe-se que existem agências físicas e também digitais. Mas não existe um plataforma digital que tem como objetivo, gerenciar a agências do mercado da moda, assegurando a veracidade das agências, modelos e a segurança do cliente. Existem muitas pessoas, que tiveram o seu sonho de ser modelo frustrados, devido a inúmeras agências falsas formadas com intuito de roubar dinheiro dos clientes aproveitando-se de seu sonho. Ainda devido a inúmeras agências, é difícil saber ao certo ou levaria muito tempo para verificar se um modelo que não é famoso existe ou se foi afastado da agência. Visto que a indústria da moda é dinâmica e sempre está à procura de novos talentos, logo surge a necessidade da criação de um (e–ccomerce) que será como se fosse uma agência mãe para todas as agências de moda.
 
 
-BACKLOG PRODUCT
+BACKLOG DO PRODUTO
 
 Como dono/a da agência de modelos, desejo ter a capacidade de gerenciar os perfis dos modelos em nosso sistema, para que eu possa atualizar informações, adicionar novos modelos e remover modelos existentes conforme necessário.
 
@@ -140,4 +140,49 @@ Como administrador do (software de gerenciamento e divulgação de Modelos),dese
 -O administrador deve poder adicionar novos perfis de modelos ao sistema, inserindo todas as informações necessárias.
 
 -O administrador deve poder remover perfis de modelos existentes do sistema, garantindo que todas as referências a esse modelo sejam removidas de forma adequada.
+
+
+BACKLOG DA SPRINT
+
+Responsável por garantir que o backlog do produto seja gerenciado de forma eficaz,fornecendo visão e estratégias do produto. @Dimir Zeferino Cuma - PO
+
+Responsável pela (ui e ux): ferramente figma.@Carla Carlos Sá
+
+Implementar Base Tecnologica Frontend: Angular com Angular Material.@Adilson Leonardo Morgado Cabaça
+
+Implementar Base Tecnologica Backend: Node.JS com Express.@Estrela José Marcolino
+
+como Administrador,gostaria de gerenciar o sistema
+-Formulario Frontend @Adilson Leonardo Morgado Cabaça
+-Filtro de autenticação Login Frontend (Adiciona o token a requisições feitas por um usuario autenticado).@Adilson Leonardo Morgado Cabaça
+-Rest Backend - POST @EstrelaMarcolino
+
+como dono/a da agência,gostaria de gerenciar os perfis de modelo de minha agência
+-Formulario Frontend @Adilson Leonardo Morgado Cabaça
+-Filtro de autenticação Login Frontend (Adiciona o token a requisições feitas por um usuario autenticado).@Adilson Leonardo Morgado Cabaça 
+-Rest Backend - POST @EstrelaMarcolino
+
+Como usuário, gostaria de Criar conta
+-Formulario Frontend @Adilson Leonardo Morgado Cabaça.
+-Rest Backend - POST @EstrelaMarcolino
+-Tabela Conta @Adilson Leonardo Morgado Cabaça
+
+Como usuário, gostaria de Fazer Login
+-Formulário Login @Adilson Leonardo Morgado Cabaça
+-Filtro de autenticação Login Frontend (Adiciona o token a requisições feitas por um usuario autenticado) @Adilson Leonardo Morgado Cabaça
+-Rest Backend - POST @EstrelaMarcolino
+
+Como usuário, gostaria de Visualizar minha conta
+-Formulário FrontEnd @Adilson Leonardo Morgado Cabaça.
+-Rest Backend - GET @EstrelaMarcolino
+
+Como usuário, gostaria de Alterar minha foto
+-Botão alterar foto no formulário visualizar conta.@AdilsonCabaça.
+-Rest Backend - POST @EstrelaMarcolino
+
+-Como usuário, gostaria de Alterar senha
+-Formulario alterar senha, apartir do minha conta @Adilson Cabaça
+-Backend alterar senha - POST @EstrelaMarcolino
+
+
 
