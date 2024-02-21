@@ -144,7 +144,7 @@ Como administrador do (software de gerenciamento e divulgação de Modelos),dese
 
 BACKLOG DA SPRINT
 
-Responsável por garantir que o backlog do produto seja gerenciado de forma eficaz,fornecendo visão e estratégias do produto. @DimirCuma - PO
+Responsável por garantir que o backlog do produto seja gerenciado de forma eficaz,fornecendo visão e estratégias do produto. @DimirCuma-PO
 
 Responsável pela (ui e ux): ferramente figma.@Carla Carlos Sá
 
