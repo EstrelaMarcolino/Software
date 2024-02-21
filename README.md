@@ -129,17 +129,17 @@ Critérios de aceitação (Atividade de Contratação de Modelos):
 
 Como administrador do (software de gerenciamento e divulgação de Modelos),desejo ter a capacidade de gerenciar os perfis dos modelos em nosso sistema, para que eu possa atualizar informações, adicionar novos modelos e remover modelos existentes conforme necessário.
 
-•O sistema deve fornecer uma interface de administração geral acessível apenas ao administrador.
+• O sistema deve fornecer uma interface de administração geral acessível apenas ao administrador.
 
-•O administrador deve poder visualizar uma lista de todos os perfis de modelos registrados no sistema.
+• O administrador deve poder visualizar uma lista de todos os perfis de modelos registrados no sistema.
 
-•O administrador deve ter a capacidade de visualizar os detalhes completos do perfil de cada modelo, incluindo nome, idade, altura, medidas, fotos e outras informações relevantes.
+• O administrador deve ter a capacidade de visualizar os detalhes completos do perfil de cada modelo, incluindo nome, idade, altura, medidas, fotos e outras informações relevantes.
 
-•O administrador deve poder atualizar as informações dos perfis dos modelos, incluindo nome, idade, altura, medidas, fotos e descrição.
+• O administrador deve poder atualizar as informações dos perfis dos modelos, incluindo nome, idade, altura, medidas, fotos e descrição.
 
-•O administrador deve poder adicionar novos perfis de modelos ao sistema, inserindo todas as informações necessárias.
+• O administrador deve poder adicionar novos perfis de modelos ao sistema, inserindo todas as informações necessárias.
 
-•O administrador deve poder remover perfis de modelos existentes do sistema, garantindo que todas as referências a esse modelo sejam removidas de forma adequada.
+• O administrador deve poder remover perfis de modelos existentes do sistema, garantindo que todas as referências a esse modelo sejam removidas de forma adequada.
 
 
 BACKLOG DA SPRINT
