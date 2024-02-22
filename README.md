@@ -146,9 +146,9 @@ BACKLOG DA SPRINT
 
 PO(Responsável por garantir que o backlog do produto seja gerenciado de forma eficaz,fornecendo visão e estratégias do produto).@DimirCuma
 
-Responsável pela (ui e ux): ferramente figma.@Carla Carlos Sá
+Responsável pela (UI & UX): ferramente figma.@Carla Carlos Sá
 
-Implementar Base Tecnologica Frontend: Angular com Angular Material.@AdilsonCabaça
+Implementar Base Tecnologica Frontend: Vitejs.@AdilsonCabaça
 
 Implementar Base Tecnologica Backend: Node.JS com Express.@Estrela Marcolino
 
@@ -170,7 +170,7 @@ como dono/a da agência,gostaria de gerenciar os perfis de modelo da agência
 
 Como usuário, gostaria de Criar conta
 
-•Formulario Frontend @AdilsonCabaça.
+•Formulario Frontend @AdilsonCabaçat
 
 •Rest Backend - POST @EstrelaMarcolino
 
