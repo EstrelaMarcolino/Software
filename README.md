@@ -15,15 +15,16 @@ Desenvolver um software para gerenciamento e divulgação de modelos (e-commerce
 
 Ojetivos específicos
            
-•	Desenvolver um chat interativo para facilitar a comunicação eficiente com o cliente.
+•  Desenvolver uma ferramenta de chat interativa integrada à aplicação, visando facilitar a comunicação eficiente entre as agências de moda, modelos e clientes, proporcionando um atendimento personalizado e ágil.
 
-•	Construir um e-commerce, que serve de suporte para as agências e com suporte multilíngue.
+•  Desenvolver um sistema de e-commerce robusto e adaptável, capaz de atender às necessidades das agências de moda, oferecendo suporte multilíngue para alcançar um público global e facilitar transações comerciais internacionais.
 
-•	Implementar um banco de dados para armazenar as agências do mercado.
+•  Estabelecer um banco de dados centralizado para armazenar e gerenciar as informações das agências do mercado da moda, garantindo a integridade e segurança dos dados, e facilitando o acesso rápido e eficiente às informações relevantes.
 
-•	Criar uma interface de usuário intuitiva e responsiva que possibilite os clientes, empresas e outros a interagirem de forma simples e eficaz com o sistema.
+•  Criar uma interface de usuário intuitiva e responsiva, projetada para proporcionar uma experiência de uso simples e eficaz para clientes, empresas e outros usuários, permitindo interações fluidas e facilitando a navegação e utilização do sistema.
 
-•	Contribuir no desenvolvimento da indústria de moda, com a criação de um software de gerenciamento e divulgação de modelos.
+•  Por meio da criação do software de gerenciamento e divulgação de modelos, contribuir para o avanço e modernização da indústria da moda, oferecendo uma solução inovadora que otimiza processos, promove a transparência e facilita o acesso a oportunidades para modelos e agências.
+
 
 
 Funcionalidades:
@@ -44,7 +45,7 @@ O sistema deve suportar múltiplos usuários acessando o sistema simultaneamente
 
 Limitações e exclusão:
 
-O sistema não irá lidar com transações financeiras, como cobrança de multas por atraso  ou não comprimento dos serviços fornecidos das agências.
+O sistema não irá lidar com transações financeiras, como cobrança de multas por atraso  ou não comprimento dos serviços fornecidos pelas agências.
 
 Interfaces:
 
@@ -65,14 +66,18 @@ Adilson Leonardo Morgado Cabaça –  dev frontend.
 
 Carla Carlos Sá – Designer
 
-Liguagem: javascript.
+Liguagem de programação: javascript.
 
-Ferramenta: Figma.
+Linguagem de Marcação: HTML.
+
+Linguagem de Estilização: CSS.
+
+Ferramentas: Figma,Node.js e o Vite.js.
 
 
 JUSTIFICATIVA DO PROJETO
 
-Este projeto busca prosseguir com uma pesquisa já iniciada e ampliar o estudo, propondo a criação de um software de gerenciamento e divulgação de modelos (e-commerce). Sabe-se que existem agências físicas e também digitais. Mas não existe um plataforma digital que tem como objetivo, gerenciar a agências do mercado da moda, assegurando a veracidade das agências, modelos e a segurança do cliente. Existem muitas pessoas, que tiveram o seu sonho de ser modelo frustrados, devido a inúmeras agências falsas formadas com intuito de roubar dinheiro dos clientes aproveitando-se de seu sonho. Ainda devido a inúmeras agências, é difícil saber ao certo ou levaria muito tempo para verificar se um modelo que não é famoso existe ou se foi afastado da agência. Visto que a indústria da moda é dinâmica e sempre está à procura de novos talentos, logo surge a necessidade da criação de um (e–ccomerce) que será como se fosse uma agência mãe para todas as agências de moda.
+Este projeto busca prosseguir com uma pesquisa já iniciada e ampliar o estudo, sugerindo a criação de um software de gerenciamento e divulgação de modelos (e-commerce). Embora existam diversas agências físicas e digitais na indústria da moda que utilizam uma variedade de ferramentas e tecnologias para gerenciar suas operações, desde sistemas de gerenciamento de conteúdo até análise de desempenho na web, falta uma solução abrangente que tenha como objetivo principal gerenciar e validar a autenticidade das agências e modelos, garantindo a proteção dos clientes. É uma realidade lamentável que muitos indivíduos tenham tido seus sonhos de se tornarem modelos frustrados devido a agências fraudulentas que se aproveitam de suas aspirações. A existência de numerosas agências torna ainda mais desafiador verificar a legitimidade de um modelo desconhecido, prolongando o processo de verificação e prejudicando as oportunidades de carreira. Diante desse cenário dinâmico da indústria da moda, onde a demanda por novos talentos é constante, surge a necessidade de uma plataforma centralizada, uma espécie de "agência mãe", que unifique e valide todas as agências de moda. 
 
 
 BACKLOG DO PRODUTO
