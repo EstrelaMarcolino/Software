@@ -1,6 +1,6 @@
-#  SOFTWARE DE GERENCIAMENTO E DIVULGAÇÃO DE MODELOS (E-COMMERCE).
+<h1>SOFTWARE DE GERENCIAMENTO E DIVULGAÇÃO DE MODELOS (E-COMMERCE) </h1>
 
-ESCOPO
+## ESCOPO
 
 Objetivos e finalidades: 
 
@@ -8,53 +8,53 @@ Objetivos e finalidades:
 O objetivo principal do sistema será representar e promover modelos, otimizando o gerenciamento das agências, permitindo assim o controle eficiente das agências e dos modelos.
 
 
-Objetivo geral
+### Objetivo geral
 
 Desenvolver um software para gerenciamento e divulgação de modelos (e-commerce).
 
 
-Ojetivos específicos
+#### Ojetivos específicos
            
-•  Desenvolver uma ferramenta de chat interativa integrada à aplicação, visando facilitar a comunicação eficiente entre as agências de moda, modelos e clientes, proporcionando um atendimento personalizado e ágil.
+*  Desenvolver uma ferramenta de chat interativa integrada à aplicação, visando facilitar a comunicação eficiente entre as agências de moda, modelos e clientes, proporcionando um atendimento personalizado e ágil.
 
-•  Desenvolver um sistema de e-commerce robusto e adaptável, capaz de atender às necessidades das agências de moda, oferecendo suporte multilíngue para alcançar um público global e facilitar transações comerciais internacionais.
+*  Desenvolver um sistema de e-commerce robusto e adaptável, capaz de atender às necessidades das agências de moda, oferecendo suporte multilíngue para alcançar um público global e facilitar transações comerciais internacionais.
 
-•  Estabelecer um banco de dados centralizado para armazenar e gerenciar as informações das agências do mercado da moda, garantindo a integridade e segurança dos dados, e facilitando o acesso rápido e eficiente às informações relevantes.
+*  Estabelecer um banco de dados centralizado para armazenar e gerenciar as informações das agências do mercado da moda, garantindo a integridade e segurança dos dados, e facilitando o acesso rápido e eficiente às informações relevantes.
 
-•  Criar uma interface de usuário intuitiva e responsiva, projetada para proporcionar uma experiência de uso simples e eficaz para clientes, empresas e outros usuários, permitindo interações fluidas e facilitando a navegação e utilização do sistema.
+*  Criar uma interface de usuário intuitiva e responsiva, projetada para proporcionar uma experiência de uso simples e eficaz para clientes, empresas e outros usuários, permitindo interações fluidas e facilitando a navegação e utilização do sistema.
 
-•  Por meio da criação do software de gerenciamento e divulgação de modelos, contribuir para o avanço e modernização da indústria da moda, oferecendo uma solução inovadora que otimiza processos, promove a transparência e facilita o acesso a oportunidades para modelos e agências.
+*  Por meio da criação do software de gerenciamento e divulgação de modelos, contribuir para o avanço e modernização da indústria da moda, oferecendo uma solução inovadora que otimiza processos, promove a transparência e facilita o acesso a oportunidades para modelos e agências.
 
 
 
-Funcionalidades:
+# Funcionalidades:
 
-Cadastro de Agências:Permitir cadastro de novas agências no sistema,incluindo informações como nome da agência,Contacto,CNPJ, endereço e E-mail etc.
+*  Cadastro de Agências:Permitir cadastro de novas agências no sistema,incluindo informações como nome da agência,Contacto,CNPJ, endereço e E-mail etc.
 
-Cadastro de usuários(clientes): Permitir o registro de novos usuários no sistema, incluindo informações como nome, contacto, endereço, e-mail, entre outros.
+*  Cadastro de usuários(clientes): Permitir o registro de novos usuários no sistema, incluindo informações como nome, contacto, endereço, e-mail, entre outros.
 
-Consulta de acervo: Permitir que usuários e agências de moda consultem o acervo de fotográfia e videos dos modelos disponíveis, podendo buscar por meio do nome do modelo ou da agência etc.
+* Consulta de acervo: Permitir que usuários e agências de moda consultem o acervo de fotográfia e videos dos modelos disponíveis, podendo buscar por meio do nome do modelo ou da agência etc.
 
 Requisitos:
 
-O sistema deve garantir a segurança dos dados, exigindo autenticação para acesso e protegendo as informações pessoais dos usuários(Agências e clientes).
+* O sistema deve garantir a segurança dos dados, exigindo autenticação para acesso e protegendo as informações pessoais dos usuários(Agências e clientes).
 
-O sistema deve garantir  o controle das agências e modelos do mercado proporcionando segurança ao cliente.
+* O sistema deve garantir  o controle das agências e modelos do mercado proporcionando segurança ao cliente.
 
-O sistema deve suportar múltiplos usuários acessando o sistema simultaneamente, mantendo a integridade dos dados.
+* O sistema deve suportar múltiplos usuários acessando o sistema simultaneamente, mantendo a integridade dos dados.
 
 Limitações e exclusão:
 
-O sistema não irá lidar com transações financeiras, como cobrança de multas por atraso  ou não comprimento dos serviços fornecidos pelas agências.
+* O sistema não irá lidar com transações financeiras, como cobrança de multas por atraso  ou não comprimento dos serviços fornecidos pelas agências.
 
 Interfaces:
 
-O sistema deve ser acessível via navegador web, com suporte para dispositivos desktop e móveis. Deve também integrar-se com o sistema chamado "Consulta CNPJ", que permite verificar a autenticidade de um CNPJ 
+* O sistema deve ser acessível via navegador web, com suporte para dispositivos desktop e móveis. Deve também integrar-se com o sistema chamado "Consulta CNPJ", que permite verificar a autenticidade de um CNPJ 
 para permitir o acesso das agências autorizadas.
 
 Usuários e perfis de usuarios:
 
-Administrador: Responsável por gerenciar o acervo, cadastrar novos usuários, gerar relatórios, entre outras tarefas administrativas.
+* Administrador: Responsável por gerenciar o acervo, cadastrar novos usuários, gerar relatórios, entre outras tarefas administrativas.
 
 Membros da equipe:
 
@@ -75,12 +75,12 @@ Linguagem de Estilização: CSS.
 Ferramentas: Figma,Node.js e o Vite.js.
 
 
-JUSTIFICATIVA DO PROJETO
+# JUSTIFICATIVA DO PROJETO
 
-Este projeto busca prosseguir com uma pesquisa já iniciada e ampliar o estudo, sugerindo a criação de um software de gerenciamento e divulgação de modelos (e-commerce). Embora existam diversas agências físicas e digitais na indústria da moda que utilizam uma variedade de ferramentas e tecnologias para gerenciar suas operações, desde sistemas de gerenciamento de conteúdo até análise de desempenho na web, falta uma solução abrangente que tenha como objetivo principal gerenciar e validar a autenticidade das agências e modelos, garantindo a proteção dos clientes. É uma realidade lamentável que muitos indivíduos tenham tido seus sonhos de se tornarem modelos frustrados devido a agências fraudulentas que se aproveitam de suas aspirações. A existência de numerosas agências torna ainda mais desafiador verificar a legitimidade de um modelo desconhecido, prolongando o processo de verificação e prejudicando as oportunidades de carreira. Diante desse cenário dinâmico da indústria da moda, onde a demanda por novos talentos é constante, surge a necessidade de uma plataforma centralizada, uma espécie de "agência mãe", que unifique e valide todas as agências de moda. 
+* Este projeto busca prosseguir com uma pesquisa já iniciada e ampliar o estudo, sugerindo a criação de um software de gerenciamento e divulgação de modelos (e-commerce). Embora existam diversas agências físicas e digitais na indústria da moda que utilizam uma variedade de ferramentas e tecnologias para gerenciar suas operações, desde sistemas de gerenciamento de conteúdo até análise de desempenho na web, falta uma solução abrangente que tenha como objetivo principal gerenciar e validar a autenticidade das agências e modelos, garantindo a proteção dos clientes. É uma realidade lamentável que muitos indivíduos tenham tido seus sonhos de se tornarem modelos frustrados devido a agências fraudulentas que se aproveitam de suas aspirações. A existência de numerosas agências torna ainda mais desafiador verificar a legitimidade de um modelo desconhecido, prolongando o processo de verificação e prejudicando as oportunidades de carreira. Diante desse cenário dinâmico da indústria da moda, onde a demanda por novos talentos é constante, surge a necessidade de uma plataforma centralizada, uma espécie de "agência mãe", que unifique e valide todas as agências de moda. 
 
 
-BACKLOG DO PRODUTO
+# BACKLOG DO PRODUTO
 
 Como dono/a da agência de modelos, desejo ter a capacidade de gerenciar os perfis dos modelos em nosso sistema, para que eu possa atualizar informações, adicionar novos modelos e remover modelos existentes conforme necessário.
 
@@ -147,7 +147,7 @@ Como administrador do (software de gerenciamento e divulgação de Modelos),dese
 • O administrador deve poder remover perfis de modelos existentes do sistema, garantindo que todas as referências a esse modelo sejam removidas de forma adequada.
 
 
-BACKLOG DA SPRINT
+# BACKLOG DA SPRINT
 
 PO(Responsável por garantir que o backlog do produto seja gerenciado de forma eficaz,fornecendo visão e estratégias do produto).@DimirCuma
 
