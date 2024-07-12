@@ -153,7 +153,7 @@ PO(Responsável por garantir que o backlog do produto seja gerenciado de forma e
 
 Responsável pela (UI & UX): ferramente figma.@Carla Carlos Sá
 
-Implementar Base Tecnologica Frontend: Vitejs.@AdilsonCabaça
+Implementar Base Tecnologica Frontend: React.js.@AdilsonCabaça
 
 Implementar Base Tecnologica Backend: Node.JS com Express.@Estrela Marcolino
 
