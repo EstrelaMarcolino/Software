@@ -72,7 +72,7 @@ Linguagem de Marcação: HTML.
 
 Linguagem de Estilização: CSS.
 
-Ferramentas: Figma,Node.js e o Vite.js.
+Ferramentas: Figma,Node.js e o React.js.
 
 
 # JUSTIFICATIVA DO PROJETO
