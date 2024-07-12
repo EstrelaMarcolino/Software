@@ -1,13 +1,13 @@
 {
-  "name": "menorpreco",
+  "name": "moda",
   "version": "1.0.0",
-  "description": "Menor preço é uma plataforma de serviço de venda de insumos de cooperativas",
+  "description": "Back Api",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon ./index.js"
   },
-  "author": "Mariano António Vunge",
+  "author": "Estrela José",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",

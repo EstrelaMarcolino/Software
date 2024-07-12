@@ -2,6 +2,7 @@
   "name": "modelos",
   "version": "0.1.0",
   "private": true,
+  "author": "Estrela José",
   "dependencies": {
     "@firebase/storage": "^0.12.6",
     "@testing-library/jest-dom": "^5.16.5",

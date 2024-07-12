@@ -2,13 +2,12 @@ import { initializeApp } from "firebase/app";
 import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAfFg09xqN6m_bRvTWd_H8Fq0N8XRcJ6V4",
-  authDomain: "unilabtemfist.firebaseapp.com",
-  projectId: "unilabtemfist",
-  storageBucket: "unilabtemfist.appspot.com",
-  messagingSenderId: "603975237148",
-  appId: "1:603975237148:web:d0383e4c39a0fa29e9a9d9",
-  measurementId: "G-GXRD7WZ06X"
+  apiKey: "AIzaSyDp3K1kYyqaQZd1ow4aVX7FIj-BAkYwDyQ",
+  authDomain: "moda-26b06.firebaseapp.com",
+  projectId: "moda-26b06",
+  storageBucket: "moda-26b06.appspot.com",
+  messagingSenderId: "350177082746",
+  appId: "1:350177082746:web:f1a613771e55305a766ac3"
 };
 
 const app = initializeApp(firebaseConfig);
