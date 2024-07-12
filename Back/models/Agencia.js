@@ -12,7 +12,10 @@ const AgenciaSchema = new mongoose.Schema({
         type:String,
         unique:false,
     },
-    password:{
+    senha:{
+        type:String,
+    },
+    profilePic:{
         type:String,
     },
     ende_bairro:{
