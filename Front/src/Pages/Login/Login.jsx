@@ -3,7 +3,7 @@ import React, { useContext, useState } from 'react'
 import Swal from 'sweetalert2'
 import { Context } from '../../Context/Context'
 import './style.css'
-const host = "http://localhost:8000/"
+// const host = "http://localhost:8000/"
 
 
 export default function Login() {
@@ -34,10 +34,11 @@ export default function Login() {
     }
     const CadastrarCoop = async()=>{
         try {
-            await axios.post("http://localhost:8000/coop/criar",{
+            await axios.post("http://localhost:8000/agencia/criar",{
                 nome: user,
                 senha: senha,
-                cnpj: cpf
+                cnpj: cpf,
+                logo:"https://i.pinimg.com/474x/11/73/e3/1173e32890c0f9fab846b7218c7f3aa9.jpg"
             })
             Swal.fire({
                 position: 'center',
@@ -53,13 +54,12 @@ export default function Login() {
     }
     const CadastrarUser = async()=>{
         try {
-            const coopUse = await axios.post("http://localhost:8000/auth/criar",{
+            await axios.post("http://localhost:8000/auth/criar",{
                 username: user,
                 password: senha,
                 cpf: cpf,
                 email: ""
             })
-            console.log(coopUse)
             Swal.fire({
                 position: 'center',
                 icon: 'success',
@@ -77,7 +77,7 @@ export default function Login() {
         e.preventDefault();
         dispatch({ type: "LOGIN_START"})
         try{
-            const res = await axios.post("http://localhost:8000/coop/login", {
+            const res = await axios.post("http://localhost:8000/agencia/login", {
                 nome: user,
                 senha: senha,
             })
@@ -112,7 +112,7 @@ export default function Login() {
         </div>
         <div className="loginForm">
             <div className="logo">
-                <img src={`${host}uploads/logo-sem-fundo.png`} alt="" className="logoLoginImg" />
+                <img src="../logoPrin.png" alt="" className="logoLoginImg" />
             </div>
             {create === "Coop" ? (<h1 className="Login">Login</h1>):(
                 <h1 className="Login">Cadastrar</h1>

@@ -29,7 +29,7 @@ export default function CoopPage() {
 
     useEffect(()=>{
         const getCoop = async()=>{
-            const res = await axios.get(`http://localhost:8000/coop/${path}`)
+            const res = await axios.get(`http://localhost:8000/agencia/${path}`)
             setCoop(res.data)
         }
         getCoop()
@@ -146,7 +146,7 @@ export default function CoopPage() {
                 <div className="nomeCoopCont">{coop.nome}</div>
 
                 {showEditCoop && (<EditCoop path={path} />)}
-                <div className="textCompraH"><h3 className='encostarNaParede'>Nova Venda</h3></div>
+                <div className="textCompraH"><h3 className='encostarNaParede'>Cadastrar Modelo</h3></div>
                 <Venda />
                 {show && (<ProductCoop text={"Produto"} path={path} />)}
                 {!show && (<FormCad setShow={setShow} />)}
